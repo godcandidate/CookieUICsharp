@@ -123,6 +123,16 @@ namespace CookieUICsharp.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap cookieApp {
+            get {
+                object obj = ResourceManager.GetObject("cookieApp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap icecream1 {
             get {
                 object obj = ResourceManager.GetObject("icecream1", resourceCulture);
